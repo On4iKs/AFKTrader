@@ -54,7 +54,7 @@ Loop, %N%
     Sleep, 100
     ;; Продать
     MouseClick, left, 750, 600, 2
-    Sleep, 2000
+    Sleep, 1200
 }
 
 MsgBox, Продано %N% предметов.
